@@ -56,7 +56,7 @@
       },
       {
         "id": "cd99517791018390",
-        "amount": 1,
+        "amount": 2,
         "unit": "špetka"
       }
     ],
@@ -68,14 +68,14 @@
     "imgUri": "https://zachranjidlo.cz/wp-content/uploads/dsc-0516-1-1024x480-1200x500-c-default.jpg",
     "ingredients": [
       {
-        "id": "f9996cfda5568262",
-        "amount": 2,
-        "unit": "hrnky"
-      },
-      {
         "id": "518aea069b179f29",
         "amount": 2,
         "unit": "ks"
+      },
+      {
+        "id": "0b9ccac3b2f733cc",
+        "amount": 1,
+        "unit": "lžička"
       },
       {
         "id": "01ed1245cdfd005a",
@@ -91,11 +91,6 @@
         "id": "2220a6eb35e31dc6",
         "amount": 2,
         "unit": "ks"
-      },
-      {
-        "id": "0b9ccac3b2f733cc",
-        "amount": 1,
-        "unit": "lžička"
       },
       {
         "id": "dfa4b721efe898a5",
@@ -131,14 +126,9 @@
     "imgUri": "https://zachranjidlo.cz/wp-content/uploads/bbq-kure-burger-1024x493-1200x500-c-default.png",
     "ingredients": [
       {
-        "id": "9bb6644a5520cf8e",
-        "amount": 400,
-        "unit": "g"
-      },
-      {
-        "id": "a6e8d310c6628d31",
-        "amount": 4,
-        "unit": "ks"
+        "id": "dfa4b721efe898a5",
+        "amount": 2,
+        "unit": "kg"
       },
       {
         "id": "f6d6a4104a5194d9",
@@ -152,12 +142,12 @@
       },
       {
         "id": "59a3f03b35e69690",
-        "amount": 3,
+        "amount": 1,
         "unit": "snítka"
       },
       {
         "id": "f34bba8dd7088dff",
-        "amount": 80,
+        "amount": 76,
         "unit": "ml"
       },
       {
@@ -333,11 +323,6 @@
         "id": "4a02c5f42ed2a50e",
         "amount": 100,
         "unit": "g"
-      },
-      {
-        "id": "3f702872fb8e99f8",
-        "amount": 0.5,
-        "unit": "lžičky"
       },
       {
         "id": "a52eee7ee4336b50",
@@ -530,117 +515,15 @@
     "id": "e6a2450d6d6cd747"
   },
   {
-    "name": "dsqd",
-    "description": "sdwdq",
-    "ingredients": [],
-    "id": "718c376393529000",
-    "amount": 1,
-    "unit": "ks"
-  },
-  {
-    "name": "sdqdwq",
-    "description": "dwqdwq",
-    "ingredients": [],
-    "id": "3d643e0af0d0302a",
-    "amount": 1,
-    "unit": "ks"
-  },
-  {
-    "name": "dswq",
-    "description": "dwqd",
-    "ingredients": [],
-    "id": "9e13821671347893",
-    "amount": 1,
-    "unit": "ks"
-  },
-  {
-    "name": "dwqd",
-    "description": "dwqdwq",
-    "ingredients": [],
-    "id": "5e64d5c1f166e8ba",
-    "amount": 2,
-    "unit": "ks"
-  },
-  {
-    "name": "dwq",
-    "description": "dwqdwqd",
-    "ingredients": [],
-    "id": "93c17fc13d70da97",
-    "amount": 1,
-    "unit": "ks"
-  },
-  {
-    "name": "dqwqd",
-    "description": "dwqdqw",
-    "ingredients": [],
-    "id": "658ce73cb718e12e",
-    "amount": 2,
-    "unit": "ks"
-  },
-  {
-    "name": "dwqd",
-    "description": "dwqd",
-    "ingredients": [],
-    "id": "85e5de4da092bc17",
-    "amount": 1,
-    "unit": "g"
-  },
-  {
-    "name": "sdqwd",
-    "description": "dwqfeq",
-    "ingredients": [],
-    "id": "c4766260bc8ac1cc",
-    "amount": 1,
-    "unit": "g"
-  },
-  {
-    "name": "ssdsdd",
-    "description": "sdsdsddsds",
-    "ingredients": [],
-    "id": "366b5a4332e1766a",
-    "amount": 3,
-    "unit": "ks"
-  },
-  {
-    "name": "dwqdqwdwqw",
-    "description": "dwdqwwdqq",
-    "ingredients": [],
-    "id": "7278c3bb0a265dc4",
-    "amount": 2,
-    "unit": "ks"
-  },
-  {
-    "name": "ddddddddddddddd",
-    "description": "ddddddddddddddddddd",
-    "ingredients": [],
-    "id": "31a97f6e139726c4",
-    "amount": 11,
-    "unit": "g"
-  },
-  {
-    "name": "hhhhhhhhhhhhhhh",
-    "description": "hhhhhhhhhhhhhhhhhhhhhhhhhhhh",
-    "ingredients": [],
-    "id": "2c162290915aef90",
-    "amount": 1,
-    "unit": "ks"
-  },
-  {
-    "name": "dwq",
-    "description": "dwqdq",
-    "ingredients": [],
-    "id": "9bae26cc572f02b0"
-  },
-  {
-    "name": "dwq",
-    "description": "dqdwq",
-    "ingredients": [],
-    "id": "6e2c9f63277c8cb1"
-  },
-  {
-    "name": "dwd",
-    "description": "dwqdwq",
-    "ingredients": [],
-    "id": "5d072c1e8cd289e5"
+    "name": "sdw",
+    "description": "sdad",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "kg",
+        "id": "59a3f03b35e69690"
+      }
+    ],
+    "id": "7099c9f075410e8c"
   }
 ]
