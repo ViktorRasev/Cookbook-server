@@ -513,17 +513,5 @@
       }
     ],
     "id": "e6a2450d6d6cd747"
-  },
-  {
-    "name": "sdw",
-    "description": "sdad",
-    "ingredients": [
-      {
-        "amount": 2,
-        "unit": "kg",
-        "id": "59a3f03b35e69690"
-      }
-    ],
-    "id": "7099c9f075410e8c"
   }
 ]
